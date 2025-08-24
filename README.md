@@ -1,4 +1,4 @@
-## Hi there 👋, Jewel Dane S. Pablo
+## Hi there 👋, PabloJewel
 
 <!--
 **PabloJewel/PabloJewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
